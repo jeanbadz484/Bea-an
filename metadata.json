@@ -1,0 +1,6 @@
+{
+  "name": "ToddlerPlay - Fun Coloring, Tracing & Puzzles",
+  "description": "An interactive, toddler-friendly activity hub featuring vibrant coloring pages, letter and shape tracing with audio feedback, and jigsaw puzzles designed for little hands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
